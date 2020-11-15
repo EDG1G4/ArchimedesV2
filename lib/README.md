@@ -1,0 +1,1 @@
+## `lib`: Carpeta con las librerias requeridas en la aplicación

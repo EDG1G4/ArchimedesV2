@@ -1,0 +1,1 @@
+## `dist`: Carpeta en donde se almacena los archivos que ejecutan la aplicación

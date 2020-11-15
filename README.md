@@ -1,0 +1,1 @@
+## `root`: Carpeta principal del archimedesfrontend
